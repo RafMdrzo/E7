@@ -1,0 +1,18 @@
+{
+  "name": "maderazo_e7",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "hbs": "^4.1.0",
+    "typed.js": "^2.0.11"
+  },
+  "devDependencies": {},
+  "description": ""
+}
